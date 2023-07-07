@@ -1,0 +1,8 @@
+root_train: /media/arvc/Extreme SSD/dataset_recortado_normales_vecinos/kitti_Voxel_neighbour/sequences/train
+root_valid: /media/arvc/Extreme SSD/dataset_recortado_normales_vecinos/valid
+save_model: /media/arvc/Extreme SSD/dataset_recortado_normales_vecinos/kitti_Voxel_neighbour/sequences/model
+voxel_size: 0.1
+epochs: 100
+batch_size: 4
+num_workers: 4
+lr: 0.01
